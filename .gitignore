@@ -1,0 +1,12 @@
+node_modules/
+server/node_modules/
+client/node_modules/
+.env
+server/.env
+client/.env
+test.js
+listModels.js
+server/uploads/*
+server/data/vectorStore.json
+client/dist/
+.DS_Store
